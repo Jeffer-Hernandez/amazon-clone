@@ -7,7 +7,7 @@ function Header() {
 
             <img 
                 className="header_logo"
-                src="assets/amazon-icon.png"
+                src="assets/amazon_PNG11.png"
             />
 
             <div className="header_search">

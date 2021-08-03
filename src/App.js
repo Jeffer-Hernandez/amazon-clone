@@ -1,4 +1,5 @@
 import './App.css';
+import Header from './header/Header';
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
 
     <div className="App">
       <h1> Hey, y'all!</h1>
-
+      <Header/>
       {/* HEADER */}
       {/* HOME */}
     </div>
